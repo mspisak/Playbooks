@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: semaphore
   #gather_facts: true
   vars:
       username: semaphore
